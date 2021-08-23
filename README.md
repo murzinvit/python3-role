@@ -1,1 +1,1 @@
-# python3-role
+Ansible role for installation java in docker container with Ubuntu & Centos
